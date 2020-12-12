@@ -12,3 +12,6 @@ repository. Also praticing how to pull request and merge.
 1. Follow document in [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) to know basic 
 about markdown to make your website and document well-formed. And rebuild document wrote before.
 1. Follow document in [Git Handbook](https://guides.github.com/introduction/git-handbook/) to know basicc about Git and it's basic commands.
+1. Follow document in [Forking Projects](https://guides.github.com/activities/forking/) to fork interested codes, and clone your code
+to modify it on your local machine. Try to push changes back to you github repository. Making a pull request. All operation you may use
+is worth to try.
