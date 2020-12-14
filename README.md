@@ -5,4 +5,6 @@ wants to be a professional programmer.
   The first stuff is learning basic information about how to use github for recording the tutorial.
 
 Step 1:
-  pass through https://guides.github.com/ to get basic ability to record the tutorial on my GitHub.
+  pass through [Github Guides](https://guides.github.com/) to get basic ability to record the tutorial on my GitHub.
+Step 2:
+  [Gnu Related Tutorial](https://github.com/itm94lj/ProgrammerStepByStep/blob/main/GnuTutorial.md) offers basic gnu related software, basic skills of these software are needed.
