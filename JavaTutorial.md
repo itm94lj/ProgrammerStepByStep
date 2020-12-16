@@ -7,9 +7,9 @@ do some practice.
   First part is tutorial about the [Java Language](https://docs.oracle.com/javase/tutorial/java/index.html), this trail covers the fundamentals 
 of programming in the Java programming language. Pass through it.
 ### Language Basics
-  ####Variables
+  #### Variables
   Try to answer Questions and Exercises of Variables
-  #####Questions:
+  ##### Questions:
   1. The term "instance variable" is another name for **Non-static fields**
   2. The term "class variable" is another name for **Static fields**
   3. A local variable stores temporary state; it is declared inside a **method**
@@ -18,7 +18,7 @@ of programming in the Java programming language. Pass through it.
      **byte short int long float double boolean char**
   6. Character strings are represented by the class **String**
   7. An **array** is a container object that holds a fixed number of values of a single type.
-  #####Exercises:
+  ##### Exercises:
   1. Create a small program that defines some fields. Try creating some illegal field names and see what kind of error the compiler produces. Use the naming rules and conventions as a guide.
   According to the **Naming** section of variables there are several rules:
   Only begin with letter '$' or '_', if begin with digits it will show error:
