@@ -68,3 +68,5 @@ Variable.java:15: 错误: 可能尚未初始化变量b
 1 个错误
 ```
 It shows that local variable is not initialized automatically.
+
+##### Besides primitive data types, Arrays is also introduced. Try to iterate apis list in java.util.Arrays.
