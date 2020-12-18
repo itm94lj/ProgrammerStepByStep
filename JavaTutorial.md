@@ -70,3 +70,7 @@ Variable.java:15: 错误: 可能尚未初始化变量b
 It shows that local variable is not initialized automatically.
 
 ##### Besides primitive data types, Arrays is also introduced. Try to iterate apis list in java.util.Arrays.
+Notes: arrays has a field length but there is no field or getLength method in java.util.Arrays, where does the
+length field come from ? it confuses me a lot. Finally figure out at [jvms-6](https://docs.oracle.com/javase/specs/jvms/se15/html/jvms-6.html#jvms-6.5.getfield) 
+```The getfield instruction cannot be used to access the length field of an array. The arraylength instruction (§arraylength) is used instead. ```
+The field is provided by jvm instruction. But not a OO fields.
