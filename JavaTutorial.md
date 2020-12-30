@@ -74,3 +74,7 @@ Notes: arrays has a field length but there is no field or getLength method in ja
 length field come from ? it confuses me a lot. Finally figure out at [jvms-6](https://docs.oracle.com/javase/specs/jvms/se15/html/jvms-6.html#jvms-6.5.getfield) 
 ```The getfield instruction cannot be used to access the length field of an array. The arraylength instruction (§arraylength) is used instead. ```
 The field is provided by jvm instruction. But not a OO fields.
+
+### Basic IO
+After learning language basic. The next step is do some io operation. Read from files write to files. Files persistent states and results of a program. It plays important parts of program.
+
